@@ -21,6 +21,7 @@ To run this application use the following commands
 ```
 ## Screenshot
 
+<img width="1041" alt="Screenshot 2023-09-10 at 11 21 25 PM" src="https://github.com/omarx/Employee_Tracker/assets/4944767/77de11b1-921b-4859-9c28-192c84f62586">
 
 
 ## Questions
